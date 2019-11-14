@@ -1,4 +1,3 @@
 # AtlasDB  
 
-Nothing to see here.  
-Move along please.
+![Move along please.](movealong.jpg)
